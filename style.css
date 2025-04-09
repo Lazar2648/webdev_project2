@@ -20,3 +20,9 @@ header {
   font-size: 1.5rem;
   text-transform: uppercase;
 }
+
+nav{
+  background-color: #db0007;
+  text-align: center;
+  padding: 1rem;
+}
