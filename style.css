@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap')
 
-body{
+body {
   font-family: 'Roboto Mono', monospace;
   background-image: url('background.jpg');
   background-size: cover;
@@ -10,4 +10,13 @@ body{
   color: #222;
   margin: 0;
   padding: 0;
+}
+
+header {
+  background-color: rgba(30, 61, 89, 0.85);
+  color: #ffffff;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
 }
