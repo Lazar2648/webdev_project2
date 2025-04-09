@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 
-body {
-  font-family: "Roboto Mono", monospace, sans-serif;
-  background-image: url("images/background.jpg");
+body, p, li{
+  font-family: Georgia, serif;
+  background-image: url("../images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -10,6 +10,10 @@ body {
   color: #222;
   margin: 0;
   padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Roboto Mono", monospace;
 }
 
 header {
