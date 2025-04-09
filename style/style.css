@@ -2,6 +2,9 @@
 
 body, p, li {
   font-family: Georgia, serif;
+}
+
+body {
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -13,7 +16,7 @@ body, p, li {
 }
 
 h1, h2, h3 {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Roboto Mono", monospace, sans-serif;
 }
 
 header {
