@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 
 body {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Roboto Mono", monospace, sans-serif;
   background-image: url("images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -81,6 +81,11 @@ video {
   margin-right: auto;
   max-width: 100%;
   height: auto;
+}
+
+li.no-number {
+  list-style: none;
+  margin-left: 1.5rem;
 }
 
 @media (max-width: 768px){
