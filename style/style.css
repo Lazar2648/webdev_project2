@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 
-body, p, li{
+body, p, li {
   font-family: Georgia, serif;
   background-image: url("../images/background.jpg");
   background-size: cover;
